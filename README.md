@@ -2,7 +2,7 @@
 {
   "id": "7f50ba23-f5a6-4bc7-887f-ed9247220544",
   "teaches": "Shell Scripts",
-  "depends_on": [],
+  "depends_on": ["2c7334b3-b07d-48d6-a562-79072d8e166e"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-04-08",
   "keywords": ["bash", "shell", "script", "shebang"]
